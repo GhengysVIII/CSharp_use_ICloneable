@@ -1,0 +1,11 @@
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.exe
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.deps.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.runtimeconfig.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.runtimeconfig.dev.json
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\bin\Debug\netcoreapp3.0\use_ICloneable.pdb
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\obj\Debug\netcoreapp3.0\use_ICloneable.csprojAssemblyReference.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\obj\Debug\netcoreapp3.0\use_ICloneable.AssemblyInfoInputs.cache
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\obj\Debug\netcoreapp3.0\use_ICloneable.AssemblyInfo.cs
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\obj\Debug\netcoreapp3.0\use_ICloneable.dll
+C:\Users\THE-F\Desktop\Progra\C#\utilisation\use_ICloneable\use_ICloneable\obj\Debug\netcoreapp3.0\use_ICloneable.pdb
